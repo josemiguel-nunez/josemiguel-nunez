@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/josemiguel-nunez/Active-Directory-Configuration-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/josemiguel-nunez/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
-  - [Network File Shares and Permissions] 
+  - [Network File Shares and Permissions](https://github.com/josemiguel-nunez/Network-File-Shares-and-Permissions)
 
 <h2>🤳Connect with me:</h2>
 
