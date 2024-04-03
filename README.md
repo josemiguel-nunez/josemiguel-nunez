@@ -12,7 +12,7 @@
   - [Network File Shares and Permissions](https://github.com/josemiguel-nunez/Network-File-Shares-and-Permissions)
   - [Building Intuition for DNS](https://github.com/josemiguel-nunez/Building-Intuition-for-DNS)
 - <b>Course Career Project</b>
-  - [How to set up Active Directory in Microsoft Azure](https://github.com/josemiguel-nunez/Active-Directory-Configuration-within-Azure-VMs)
+  - [How to set up Active Directory in Microsoft Azure](https://github.com/josemiguel-nunez/Active-Directory-Install)
 
 
 <h2>🤳Connect with me:</h2>
