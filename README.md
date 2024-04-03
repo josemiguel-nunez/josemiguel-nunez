@@ -11,6 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/josemiguel-nunez/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
   - [Network File Shares and Permissions](https://github.com/josemiguel-nunez/Network-File-Shares-and-Permissions)
   - [Building Intuition for DNS](https://github.com/josemiguel-nunez/Building-Intuition-for-DNS)
+- <b>Course Career Project</b>
 
 <h2>🤳Connect with me:</h2>
 
