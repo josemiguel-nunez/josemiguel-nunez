@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jose Miguel, an <a href="https://linkedin.com/in/josemiguelnunez">IT Professional</a></h1>
 
-## [Download My Resum&#233; Here](https://docs.google.com/document/d/1hoEqKg7dkDouB2DDFyUw140ni9E2pLpDTeVtUf6-VU4/edit?tab=t.0)
+## [Download My Resum&#233; Here](https://drive.google.com/file/d/1-Z5Ouh3eNOHU4pbhgYcSaPM6ftxrAPDm/view)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
